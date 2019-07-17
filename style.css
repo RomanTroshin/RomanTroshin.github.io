@@ -22,7 +22,6 @@ body {
 }
 header {
 	padding: 45px 0 20px 40px;
-	text-align: center;
 	background-color: 191970;
 	background: url(images/fon4.jpg) no-repeat;
 	-moz-background-size: 100%;
@@ -39,6 +38,7 @@ header a {
 	text-decoration: none;
 	font-size: 25px;
 	font-family: "Times New Roman", "Arial Narrow";
+	text-align: center;
 }
 marquee {
 font-size: 25px;	
